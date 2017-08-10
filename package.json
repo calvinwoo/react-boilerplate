@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinwoo/react-boilerplate.git"
+  },
+  "author": "Calvin Woo <calvinwoo32@gmail.com> (http://calvinwoo.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/calvinwoo/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/calvinwoo/react-boilerplate#readme"
+}

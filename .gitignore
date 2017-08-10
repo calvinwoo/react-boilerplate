@@ -1,0 +1,5 @@
+# VIM Backup Files
+*.swp
+*.swo
+
+node_modules/
